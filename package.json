@@ -7,7 +7,7 @@
     "start": "docusaurus start",
     "build": "docusaurus build",
     "swizzle": "docusaurus swizzle",
-    "deploy": "GIT_USER=thomaslanglois DEPLOYMENT_BRANCH=main docusaurus deploy",
+    "deploy": "git config --global user.name \"Thomas Langlois\" && git config --global user.email \"thomas.langlois@mac.com\" && GIT_USER=thomaslanglois DEPLOYMENT_BRANCH=gh-pages docusaurus deploy && git config --global --unset user.name && git config --global --unset user.email",
     "clear": "docusaurus clear",
     "serve": "docusaurus serve",
     "write-translations": "docusaurus write-translations",

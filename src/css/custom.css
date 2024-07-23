@@ -28,3 +28,18 @@
   --ifm-color-primary-lightest: #4fddbf;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
+
+.navbar__logo {
+  width: 100px;  /* Adjust width as needed */
+  height: auto;  /* Maintain aspect ratio */
+}
+
+/* Adjust the height of the navbar */
+.navbar {
+  min-height: 115px;  /* Adjust height to your preference */
+}
+
+/* Ensure navbar items are centered vertically */
+.navbar__inner {
+  align-items: center;
+}
