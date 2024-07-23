@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alexanderlanglois.github.io/blog</id>
-    <title>Learn Coding With Alex Blog</title>
+    <title>Learn Coding With Alexander Blog</title>
     <updated>2021-08-26T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://alexanderlanglois.github.io/blog"/>
-    <subtitle>Learn Coding With Alex Blog</subtitle>
+    <subtitle>Learn Coding With Alexander Blog</subtitle>
     <icon>https://alexanderlanglois.github.io/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
